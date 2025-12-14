@@ -88,7 +88,7 @@ In this project, the Use Case Diagram focuses on the **Booking Management System
 - **Project planning:** Defines scope and priorities by mapping core interactions.  
 
 ### Booking System Use Case Diagram
-You can view the diagram here: [Booking System Use Case Diagram]([https://drive.google.com/file/d/1OmXCtU5BmnmwEe95mbf3TesRUWMzx6p_/view?usp=sharing](https://drive.google.com/file/d/1ZMuTCD6Xk7Jyb69cPXV-J0jTv9YhhQSM/view?usp=sharing))
+You can view the diagram here: [Booking System Use Case Diagram](https://drive.google.com/file/d/1OmXCtU5BmnmwEe95mbf3TesRUWMzx6p_/view?usp=sharing](https://drive.google.com/file/d/1ZMuTCD6Xk7Jyb69cPXV-J0jTv9YhhQSM/view?usp=sharing))
 
 
 # Acceptance Criteria
